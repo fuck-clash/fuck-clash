@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Dreamacro/clash/adapter/inbound"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/socks5"
+	"github.com/fuck-clash/fuck-clash/adapter/inbound"
+	C "github.com/fuck-clash/fuck-clash/constant"
+	"github.com/fuck-clash/fuck-clash/transport/socks5"
 )
 
 type Listener struct {

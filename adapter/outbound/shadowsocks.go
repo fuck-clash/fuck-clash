@@ -7,13 +7,13 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/Dreamacro/clash/common/structure"
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/shadowsocks/core"
-	obfs "github.com/Dreamacro/clash/transport/simple-obfs"
-	"github.com/Dreamacro/clash/transport/socks5"
-	v2rayObfs "github.com/Dreamacro/clash/transport/v2ray-plugin"
+	"github.com/fuck-clash/fuck-clash/common/structure"
+	"github.com/fuck-clash/fuck-clash/component/dialer"
+	C "github.com/fuck-clash/fuck-clash/constant"
+	"github.com/fuck-clash/fuck-clash/transport/shadowsocks/core"
+	obfs "github.com/fuck-clash/fuck-clash/transport/simple-obfs"
+	"github.com/fuck-clash/fuck-clash/transport/socks5"
+	v2rayObfs "github.com/fuck-clash/fuck-clash/transport/v2ray-plugin"
 )
 
 type ShadowSocks struct {

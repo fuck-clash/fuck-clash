@@ -9,8 +9,8 @@ It has been adopted widely by the Internet users in some countries and regions w
 
 There are currently two editions of Clash:
 
-- [Clash](https://github.com/Dreamacro/clash): the open-source version released at [github.com/Dreamacro/clash](https://github.com/Dreamacro/clash)
-- [Clash Premium](https://github.com/Dreamacro/clash/releases/tag/premium): proprietary core with [TUN support and more](/premium/introduction) (free of charge)
+- [Clash](https://github.com/fuck-clash/fuck-clash): the open-source version released at [github.com/fuck-clash/fuck-clash](https://github.com/fuck-clash/fuck-clash)
+- [Clash Premium](https://github.com/fuck-clash/fuck-clash/releases/tag/premium): proprietary core with [TUN support and more](/premium/introduction) (free of charge)
 
 While this wiki covers both, however, the use of Clash could be challenging for the average users. Those might want to consider using a GUI client instead, and we do have some recommendations:
 

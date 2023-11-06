@@ -1,7 +1,7 @@
 package rules
 
 import (
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/fuck-clash/fuck-clash/constant"
 )
 
 // Implements C.Rule

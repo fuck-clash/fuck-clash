@@ -23,4 +23,4 @@ The Premium core is a fork of the open-source Clash core with the addition of th
 
 ## Obtaining a Copy
 
-You can download the latest Clash Premium binaries from [GitHub Releases](https://github.com/Dreamacro/clash/releases/tag/premium).
+You can download the latest Clash Premium binaries from [GitHub Releases](https://github.com/fuck-clash/fuck-clash/releases/tag/premium).

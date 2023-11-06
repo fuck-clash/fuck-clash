@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Dreamacro/clash/adapter/inbound"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/socks5"
+	"github.com/fuck-clash/fuck-clash/adapter/inbound"
+	C "github.com/fuck-clash/fuck-clash/constant"
+	"github.com/fuck-clash/fuck-clash/transport/socks5"
 )
 
 func newClient(source net.Addr, originTarget net.Addr, in chan<- C.ConnContext) *http.Client {

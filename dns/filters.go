@@ -4,8 +4,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Dreamacro/clash/component/mmdb"
-	"github.com/Dreamacro/clash/component/trie"
+	"github.com/fuck-clash/fuck-clash/component/mmdb"
+	"github.com/fuck-clash/fuck-clash/component/trie"
 )
 
 type fallbackIPFilter interface {
